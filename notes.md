@@ -183,3 +183,70 @@
     - ESG Materiality Assessment
         - Galaxy implemented its first biennial ESG materiality assessment to identify and prioritize focus areas, shape the Program strategy, and ensure that future reporting addresses ESG issues of greatest importance
     ***I wonder if theres any ESG stuff around their mining operations. It'd be interesting to see them converting or utilizing renewables at their Helios operation*
+
+
+* Galaxy 3Q23 Financial Results and October Update: https://s201.q4cdn.com/407453138/files/doc_financials/2023/q3/3Q23-Earnings-Release_vFinal.pdf
+
+- Equity capital was $1.5B at end Q3, $1.6B of 10/31
+- Net loss $94M in Q3, approx. $124M income before tax
+- AUM inc. to $3.9B in Q3, +$1.4B QoQ
+
+1. Prelim Financial Highlights
+    - benefitted from heightened market vol and inc. trading vols
+    - income before tax driven primarily by market positiong (long im guessing) and appreciation of digital assets
+
+2. Corporate Updates
+    - continued work on proposed reorg and domestication to Delaware-inc company and list on Nasdaq => upon completion of SEC Review
+    - Share buyback program => announced 5/26/23: eligile to purch 10M ordinary shares => bt 7/1/23 and 10/31/23 => repurch 1.2M shares at avg CAD $4.69
+
+3. Select Financial Metrics
+    - $749M Liquidity
+        - decreased stables and cash, increased digital assets (went long, got inc from coin market appreciation)
+
+4. Galaxy Global Mkts
+    - Trading 
+        - Q trading rev of $14M, down $6M QoQ
+        - October trading rev $24M
+        - counterparty trading revs inc. 70% vs Q2
+        - Loan book 9% inc QoQ
+    - IB
+        - closed two deals: Gamecraft, advisor on investment round
+        - Exclusive Financial advisor to Securitize on acquisition of Onramp Invest
+
+5. Galaxy Asset Mgmt
+    - Institutional Grade investment vehicles across passive, active, venture strats
+    - AUM 58% QoQ
+        - Passive (-20%)
+        - Active (+1548%)
+        - Venture (2%)
+
+6. Galaxy Digital Infrastructure Solutions
+    - Mining Rev $14.3M Q3 (-7%)
+    - Prop mining rev 3%
+    - Hosted Mining Rev (-19%)
+
+
+
+
+* Examining top 10 Crypto Macro Trends: https://blockchainmagazine.net/examining-the-top-10-macro-trends-of-crypto-in-global-economy/
+
+- Cryptocurrencies and traditional finacial systems are no longer mutually exclusive. They increasingly interact in various ways:
+    1. Institutional Investment
+        - ETFs => highlight
+    2. Regulatory frameworks
+        - balance innovation and investor protection
+    3. Cryptocurrency Exchanges
+
+* Statista - DeFi: https://www.statista.com/outlook/fmo/digital-assets/defi/worldwide#:~:text=Revenue%20in%20the%20DeFi%20market,to%20US%241%2C378.0%20in%202024.
+
+- Revenue in DeFi market is projected to reach US $26B in 2024
+- CAGR (2024-2028) of 9.07%, resulting $37B by 2028
+- Avg revenue per user amounts to $1,378 in 2024
+
+NOTE: it could be useful to tie this in with Galxy's financial statements relating to Bitcoin Mining and trading revenue to give more concrete facts and figures to the On-Chain Algo Trading idea
+
+* DeFi Market Recovers From 30-Month Low as Volume Hits Highest Point Since March: https://www.coindesk.com/business/2023/10/30/defi-market-recovers-from-30-month-low-as-volume-hits-highest-point-since-march/
+
+- TVL across DeFi Protocols risen $35.8B to $42B in two weeks (DefiLlama)
+- based on 2 factors: rising asset prices and fresh inflows from participants that aim to generate yield through staking and lending
+
