@@ -93,18 +93,32 @@ Voyager Innovations, A16z Ventures, Polychain Capital, Pantera Capital, Digital 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
+At a glance, some core metrics that are used to evaluate companies operating within similar domains can be measured by Assets Under Management (AUM), Institutional Trading Counterparties, and Funded Crypto Venture Investments. Galaxy Digital currently has $10.1B AUM, 1,028 unique Institutional Trading Counterparties, and 223 Venture Investments. 
+
 * How is your company performing relative to competitors in the same domain?
 
+(Placeholder, find more info here. Who exactly would be considered a competitor? should we focus on a specific segment, or a Digital Asset Financial Services company operating across multiple domains as well? check other registered companies, and a good starting point would be A16z, Digitial Currency Group, maybe Binance, and possibly Coinbase).
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+    - Algorithmic Trading Solutions for on-chain trading, Institutional DeFi trading solutions combined with custodial services and OTC Trading solutions
+    - Provide companies with the ability to gain institutional grade access to DeFi Ecosystems 
+
 * Why do you think that offering this product or service would benefit the company?
+
+    - Offering a solution to DeFi Trading with an Institutional Grade bend is highly desirable for companies looking to access the truly decentralized markets while also having the capability to utilize other product offerings which can be more tailored to Traditional Finance or Mining Opoerations
+    - Perhaps a Mining Company would like to Programmatically provide liquidity on DeFi exchanges with the Bitcoin they generate, in order to generate more yield and return Positive Expected Value over Mining Return to their investors
 
 * What technologies would this additional product or service utilize?
 
+    - Smart Contract Development, Oracle Solutions, Algorithmic Trading Solutions, Custodial Technology Integrations, GUI Platform for Client-based Asset Management, OTC DeFi Trading Solutions (execution algorithms for smart order routing)
+
 * Why are these technologies appropriate for your solution?
+
+    - These technologies provide a framework for an end-to-end solution for the Client that will result in a platform and Trading Environment conducive to interacting with the DeFi markets. Smart contract development is necessary to programmatically interact with the on-chain ecosystems being targeted. Smart Contracts will be necessary for holding large amounts of coins on-chain. Oracle Solutions are necessary for accurate and timely information delivered between the Traditional Financial markets and assets living on-chain. Algorithmic Trading Solutions are needed in order to parse information from the Client's accounts, ingest and intepret data received from Oracles, generate Buy/Sell/Hold signals based off the parsing of these data points, as well as providing algorithms for instructing on-chain Smart Contracts on how to execute trades on these Signals. Custodial Technology Solutions are paramount for the safe handling of Client Funds when being deployed in a highly unregulated and volatile market, where hacks are still unfortunately a very real risk that needs robust solutions for mitigation. GUI Platform accessibility will give the Client more fine-grained control over their funds and let them more intuitively choose how to deploy their capital and execute trades. OTC DeFi Trading Solutions are necessary in order to obfuscate Order Blocks via Smart Order Routing and other Programmatic Execution Solutions in order to reduce slippage and overall impact on the markets being traded. 
+
 
 ## links
 
