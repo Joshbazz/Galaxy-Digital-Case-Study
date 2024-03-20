@@ -76,10 +76,16 @@ Technology and Services Solutions for Miners:
 
 * What domain of the financial industry is the company in?
 
+The Company operates across multiple facets of the Financial Industry, mainly operating within the rapidly evolving Digital Asset Industry. Their three main business lines include Global Markets, Asset Management, and Digital Infrastructure Solutions. Across these three main lines, clients further have access to Trading (multi-exchange offerings), Derivatives (bespoke solutions and options trading), Asset Management (Active, Passive, Venture), Investment Banking (M&A and Strategic Financing), Lending (Liquidity for Leverage, Hedging and Working Capital requirements), Custodial Technology Solutions (Enterprise-Grade Digital Asset Custody Solutions), Validator Services (Infrastructure, Liquidity, Treasury Mgmt, Special Initiative Solutions), Bitcoin Mining Solutions (Financial Services for Mining Companies), Galaxy Venture Solutions (Venture Investing across Protocols, Scaling Solutions, DeFi and Web3 Infrastructure), Galaxy Interactive Solutions (Venture Investing tailored to Gaming and Virtual Worlds), Hosting Services (for Third-Party Bitcoin Miners), and Miner Financing (MiFi Solutions) 
+
 * What have been the major trends and innovations of this domain over the last 5–10 years?
+
+Major trends in the Digital Asset and Cryptocurrency Industry over the past 5-10 years are exponential. The three main trends are (do more research, these are placeholders) widespread Institutional Adoption of Cryptocurrencies, most notably Bitcoin, rapid proliferation of decentralized ecosystems that live outside of the Traditional Financial Ecosystem (DeFi), and the Green and Sustainable Energy Inititative related to the Mining of Bitcoin Worldwide.
 
 * What are the other major companies in this domain?
 
+Voyager Innovations, A16z Ventures, Polychain Capital, Pantera Capital, Digital Currency Group, Coinbase
+*** more research needed
 
 ## Results
 
