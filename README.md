@@ -34,11 +34,42 @@ IPO Date: 8/3/2018; Toronto Stock Exchange
 
 * What specific financial problem is the company or project trying to solve?
 
+Galaxy Digital operates multiple business lines within the cryptocurrency industry. Their three main business lines are Global Markets, Asset Management, and Digital Infrastructure Solutions. Offerings provided under these three main business segments include Trading, Lending, Strategic Advisory Services, Institutional-Grade Investment Solutions, Proprietary Bitcoin Mining and Hosting Services, and the development of Enterprise Custodial Technology   
+
+
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+
+The company's intended customers are tailored to Traditional Finance and Cryptocurrency Market participants, such as Institutional Investors, Trading Firms, Hedge Funds, Banks and FMIs, Founder and Web3 Entrepreneurs (~$6.63B), and Miners (~$5.01B). While the overall size of the global market size of Institutional Investors, which can be defined to contain also Trading Firms, Hedge Funds, Banks and FMIs can be difficult to evaluate, current research indicates a figure of around ~$61T to be a reasonable estimate. With estimations further purporting that these Institutional Investors can be expected to invest 5% of AUM over the next 5 years, using a conservative estimate of 0.50% of AUM for the current market environment leads to a theoretical market size of $305B. Combing this figure with the current research estimates of the figures for Web3 Entrepreneurs and Miners leads to a total addressable market size of around $316.64B. 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
+In a very new and massively understood industry, Galaxy Digital offers high quality solutions across multiple business segments that may cater to the needs of Individual Founders, SMEs, and Institutional Clients. These different customers may find added value across multiple business segments offered by the same firm, introducing a streamlined process for operations and services which provide continuity and peace of mind in a rapidly evolving industry landscape. For example, a company may fall into a Founder and Web3 Entrepreneur category, and utilize funding and or services tailored to this sort of customer base, while also being involved in Mining, and benefit from utilizing Galaxy as a provider for both Capital Injection and Mining Hosting capabilities.  
+
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
+
+Technology and Services Solutions for Institutional Investors:
+    - Galaxy Expertise spans Traditional Finance and the Digital Asset Ecosystem
+    - Trading, Asset Management, Investment Banking
+
+Technology and Services Solutions for Trading Firms:
+    - Galaxy delivers cutting edge trading solutions with services including market-leading electronic and OTC Trading, Lending, and Derivatives
+    - Trading, Lending, Derivatives, Custodial Technology (by GK8), and Validator Services
+
+Technology and Services Solutions for Hedge Funds:
+    - As a leading liquidity provider, Galaxy offers bespoke solutions to access digital markets, differentiating itself as a counterparty of the highest quality
+    - Asset Management, Trading, Lending, Derivatives
+
+Technology and Services Solutions for Banks and FMI:
+    - Building a holistic platform to further the future of digital financial markets
+    - Trading, Custodial Technology (by GK8), Investment Banking, Bitcoin Mining
+
+Technology and Services Solutions for Founders and Web3 Entrepreneurs:
+    - Collaborating with visionaries across the digital currency ecosystem, Galaxy helps web3 projects grow and tap into traditional finance capital streams
+    - Galaxy Ventures, Galaxy Interactive, Investment Banking, Validator Services
+
+Technology and Services Solutions for Miners:
+    - Expertise across real-asset financing, energy markets, and investment banking positions Galaxy as an essential partner for Miners seeking professionalized services
+    - Hosting Services, Miner Finance (MiFi), Investment Banking (M&A and Strategic Financing)
 
 
 ## Landscape
@@ -74,3 +105,5 @@ IPO Date: 8/3/2018; Toronto Stock Exchange
 https://techcrunch.com/2019/03/25/a-look-inside-crypto-firm-digital-galaxy-founded-by-sidelined-wall-street-legend-mike-novogratz/
 
 https://www.crunchbase.com/organization/galaxy-digital-lp
+
+https://www.bcg.com/publications/2021/global-asset-management-industry-report#:~:text=Retail%20portfolios%2C%20representing%2041%25%20of,59%25%20of%20the%20global%20market.
