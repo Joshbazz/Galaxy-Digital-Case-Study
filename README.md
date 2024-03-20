@@ -12,12 +12,13 @@
 - Michael Novogratz, David J. Namdar, Sam Engelbardt
 
 ### How did the idea for the company (or project) come about?
-
-The idea for Galaxy came about in order to bring institutions into the blockchain era. At a time when infrastructure buildouts were low and only capable of sustaining early adopters and a small retail market, Galaxy Digital aimed to bring institutional investors from the traditional financial markets into the fold. Now the cryptocurrency landscape has increased exponentially, due to innovations like DeFi and NFTs, which are driving new value propositions and creating new sectors within the digital asset ecosystem. Galaxy has built a suite of products, technology and infrastructure that helps connect previously fragmented industry players, such as institutions, builders, and entrepreneurs.
+- The idea for Galaxy came about in order to bring institutions into the blockchain era. At a time when infrastructure buildouts were low and only capable of sustaining early adopters and a small retail market, Galaxy Digital aimed to bring institutional investors from the traditional financial markets into the fold. 
+- Now the cryptocurrency landscape has increased exponentially, due to innovations like DeFi and NFTs, which are driving new value propositions and creating new sectors within the digital asset ecosystem. Galaxy has built a suite of products, technology and infrastructure that helps connect previously fragmented industry players, such as institutions, builders, and entrepreneurs.
 
 ### How is the company funded? How much funding have they received?
-
-To date, the company has completed three rounds of funding, totaling $523 million USD. The first round was a Series B led by HCM Capital in February of 2018 for $18 million, followed by a Post-IPO Equity investment led by Founder Mike Novogratz in January of 2019 for $5 million, and finished off in November of 2021 with a Post-IPO Debt funding round with notable investors of Senator Investment Group and Arca for $500 million. The company formally went public on the Toronto Stock Exchange on August 3rd, 2018.
+ - To date, the company has completed three rounds of funding, totaling $523 million USD. 
+ - The first round was a Series B led by HCM Capital in February of 2018 for $18 million, followed by a Post-IPO Equity investment led by Founder Mike Novogratz in January of 2019 for $5 million, and finished off in November of 2021 with a Post-IPO Debt funding round with notable investors of Senator Investment Group and Arca for $500 million. 
+ - The company formally went public on the Toronto Stock Exchange on August 3rd, 2018.
 
 ## Business Activities
 
