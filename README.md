@@ -80,7 +80,7 @@
 - At a glance, some core metrics that are used to evaluate companies operating within similar domains can be measured by Assets Under Management (AUM), Institutional Trading Counterparties, and Funded Crypto Venture Investments. Galaxy Digital currently has $10.1 billion USD in Assets Under Management, 1,028 unique Institutional Trading Counterparties, and 223 Venture Investments. 
 
 ### How is your company performing relative to competitors in the same domain?
-- Galaxy continues to be an industry leader within the Digital Assets Domain. (expand)
+- Galaxy continues to be an industry leader within the Digital Assets Domain. While their competitors are either mostly relegated to one side of either Traditional Finance or Digital Assets, Galaxy is a pioneer in combining both sides and has benefited from a unique first mover advantage by bridging the professional atmosphere between the two separate fields.
 
 ## Recommendations
 
